@@ -1,4 +1,4 @@
-baseURL = "http://aicamera.io/"
+baseURL = "https://aicamera.io/"
 languageCode = "en-us"
 title = "AI Blind Camera"
 theme = "grayscale"
