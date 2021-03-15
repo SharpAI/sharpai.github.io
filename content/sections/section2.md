@@ -8,9 +8,6 @@ improvecontrast: true
 
 You can download Blind Camera for free from the Github page.
 
-{{< big-button text="Download Directly" href="https://github.com/SharpAI/SharpAIMobileApp/releases/download/3.3.2/Blind_Camera_2.1.apk" >}}
+{{< big-button text="Download on Android" href="https://play.google.com/store/apps/details?id=org.sharpai.aicamera" >}}
 
 
-You can also download on Baidu Cloud with passcode: 95t0
-
-{{< big-button text="Download On Baidu Disk(passcode: 95t0)" href="https://pan.baidu.com/s/1CXdBXQrrizOlPOlQu0ZaAQ" >}}
