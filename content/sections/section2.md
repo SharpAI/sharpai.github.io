@@ -9,4 +9,6 @@ improvecontrast: true
 
 {{< big-button text="Download on Android" href="https://play.google.com/store/apps/details?id=org.sharpai.aicamera" >}}
 
+{{< big-button text="Download on Github" href="https://github.com/SharpAI/SharpAIMobileApp/releases/download/3.3.2/BlindCamera_2.4.apk" >}}
+
 
